@@ -1,0 +1,13 @@
+#Mon Jul 03 12:05:51 EEST 2017
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_6230ddb927ec946bc6ef54fbc2f4ca3f0bfa00e1
+base.2=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_808d2adfe216831d9e7ad8a55e3019da69dbbdee
+base.1=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_2cfa17f1c5d56d8aafb338c42189473d7987b854
+base.0=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_12c522bcc6ef5117724d15b17e29d6a8f1c830ac
+file.3=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_6230ddb927ec946bc6ef54fbc2f4ca3f0bfa00e1\\classes.dex
+file.2=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_808d2adfe216831d9e7ad8a55e3019da69dbbdee\\classes.dex
+file.1=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_2cfa17f1c5d56d8aafb338c42189473d7987b854\\classes.dex
+file.0=C\:\\Users\\Mehmet\\Downloads\\WikitudeSDK_Android_6-1-0_2017-03-28_09-17-16\\Examples\\SDKExamples\\wikitude-sdk-samples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_12c522bcc6ef5117724d15b17e29d6a8f1c830ac\\classes.dex

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mehmet\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\Mehmet\Projelerim\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_6230ddb927ec946bc6ef54fbc2f4ca3f0bfa00e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mehmet\.android\build-cache\5134289cbe06acfb2415cef1be947584028920c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\Mehmet\Projelerim\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes_5d25a38a998c22cf85f95c53eab8c575e47b0d75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mehmet\.android\build-cache\14b362a8fecb848c009c451c9561d827dd818ffc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a19d7479d1bf3122134a0b6bcfec833a97433642">
+        <dex dex="D:\Mehmet\Projelerim\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\classes_e94f8203a4c83ecfc9f5e412eb1f931b25bebbb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mehmet\.android\build-cache\5134289cbe06acfb2415cef1be947584028920c0\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\Mehmet\Projelerim\SDKExamples\wikitude-sdk-samples\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_cb0f04ceccdc8d7955ab74c9babf6b9a182a28af.jar" />
+    </item>
+
+</items>
