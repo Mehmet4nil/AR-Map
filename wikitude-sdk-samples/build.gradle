@@ -10,7 +10,6 @@ android {
         targetSdkVersion 24
         versionName "6.1.0"
     }
-
     buildTypes {
         release {
             minifyEnabled false
